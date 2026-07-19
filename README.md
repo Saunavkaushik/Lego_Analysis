@@ -37,6 +37,7 @@ One older cluster (~1977) stands out as small-parts-only — though it's worth n
 │   ├── sets.csv
 │   └── themes.csv
 ├── Lego_Analysis.ipynb
+├── Lego_Analysis_Presentation.pptx
 └── README.md
 ```
 
